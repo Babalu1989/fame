@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<saplogin>
+  <new_user>
+    <USER_ID>admin</USER_ID>
+    <USER_NAME>xcxcv</USER_NAME>
+    <PASSWORD>admin321</PASSWORD>
+    <USER_LEVEL>admin</USER_LEVEL>
+    <EMP_NO>hjghjghjghj</EMP_NO>
+    <ISACTIVE>N</ISACTIVE>
+    <ENTRY_DATE>04/02/2009</ENTRY_DATE>
+    <LAST_LOGIN_DATE>
+    </LAST_LOGIN_DATE>
+    <CREATED_BY>
+    </CREATED_BY>
+    <ISLOGGED>N</ISLOGGED>
+    <MODULE>DM</MODULE>
+    <EMAIL_ID>rana@gmail.com</EMAIL_ID>
+    <CONTACT_NO>1234567890</CONTACT_NO>
+  </new_user>
+  <new_user>
+    <USER_ID>test</USER_ID>
+    <USER_NAME>Test</USER_NAME>
+    <PASSWORD>aaaaaaaa2</PASSWORD>
+    <USER_LEVEL>User</USER_LEVEL>
+    <EMP_NO>test1</EMP_NO>
+    <ISACTIVE>N</ISACTIVE>
+    <ENTRY_DATE>2/20/2009</ENTRY_DATE>
+    <LAST_LOGIN_DATE>
+    </LAST_LOGIN_DATE>
+    <CREATED_BY>
+    </CREATED_BY>
+    <ISLOGGED>N</ISLOGGED>
+    <MODULE>Billing and Procurement</MODULE>
+    <EMAIL_ID>test@gmail.com</EMAIL_ID>
+    <CONTACT_NO>1222222224</CONTACT_NO>
+  </new_user>
+</saplogin>
